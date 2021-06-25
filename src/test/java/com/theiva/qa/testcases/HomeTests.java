@@ -19,7 +19,7 @@ public LoginPage loginpage;
 	 homepage=new HomePage();
 	 homepage=loginpage.login();
 	}
-
+//first test case
 	@Test
 	public void verifyHomepageLogo() {
 		 homepage.validateUser();
